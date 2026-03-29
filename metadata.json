@@ -1,0 +1,7 @@
+{
+  "name": "PhotoMaster Pro",
+  "description": "Aplicación web integral para la captura de fotografías de alta calidad y edición profesional mediante herramientas intuitivas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
